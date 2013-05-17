@@ -20,7 +20,8 @@ Install the [http://wbond.net/sublime_packages/package_control](wbond Package Co
 
 ## Alternative
 
-- Download the [https://nodeload.github.com/Andr3as/Sublime-SurroundWith/zip/master](zip archive) and extract it into an "SurroundWith" sub-directroy in Data\Packages of your Sublime Text 2 installation
+- Download the [https://nodeload.github.com/Andr3as/Sublime-SurroundWith/zip/master](zip archive) 
+- Extract it into an "SurroundWith" sub-directroy in Data\Packages of your Sublime Text 2 installation
 
 
 #Basic Use
