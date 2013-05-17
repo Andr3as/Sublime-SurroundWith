@@ -1,6 +1,6 @@
 #SurroundWith
 
-This is plugin for the code editor Sublime Text 2. It adds a 'surround with' function to Sublime like Eclipse has.
+This is a plugin for the code editor Sublime Text 2. It adds a 'surround with' function to Sublime like Eclipse has.
 
 #Installation
 
