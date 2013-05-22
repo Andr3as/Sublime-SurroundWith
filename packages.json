@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "SurroundWith",
-			"description": "This plugin adds a 'surround with' function to Codiad like Eclipse has.",
+			"description": "This plugin adds a 'surround with' function to Sublime like Eclipse has.",
 			"author": "Andr3as",
 			"homepage": "https://github.com/Andr3as/Sublime-SurroundWith",
 			"last_modified": "2013-05-20 20:00:00",
