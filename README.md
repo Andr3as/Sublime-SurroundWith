@@ -40,6 +40,16 @@ Install the [http://wbond.net/sublime_packages/package_control](wbond Package Co
 - Ctrl-Alt-W  - while loop  
 
 
+##Example
+
+####Before
+
+![Before](http://andrano.de/SurroundWith/img/example3.jpg "Before")
+
+####After
+
+![After](http://andrano.de/SurroundWith/img/example4.jpg "After")
+
 ###More Information
 
-[http://www.andr3as.bplaced.net/SurroundWith](http://www.andr3as.bplaced.net/SurroundWith "More Information")
+[http://andrano.de/SurroundWith](http://andrano.de/SurroundWith "More Information")
