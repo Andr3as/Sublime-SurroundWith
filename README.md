@@ -1,27 +1,27 @@
 #SurroundWith
 
-This is a plugin for the code editor Sublime Text 2. It adds a 'surround with' ability to Sublime like Eclipse has.
+This is a plugin for the code editor Sublime Text 2 and 3. It adds a 'surround with' ability to Sublime like Eclipse has.
 
 #Installation
 
 ## Using Package Control
 
-Install the [http://wbond.net/sublime_packages/package_control](wbond Package Control "http://wbond.net/sublime_packages/package_control")  
+Install the [https://sublime.wbond.net/](wbond Package Control "https://sublime.wbond.net/")  
 
-- Open the console of Sublime Text 2
+- Open the console of Sublime Text
 - Run "Package Control: Install Package"
 - Search for SurroundWith
 
 ## Using Git
 
-- Browse the subfolder Data\Packages of your Sublime Text 2 installation
+- Browse the subfolder Data\Packages of your Sublime Text installation
 - Clone the repository
     - git clone git://github.com/Andr3as/Sublime-SurroundWith.git
 
 ## Alternative
 
 - Download the [https://nodeload.github.com/Andr3as/Sublime-SurroundWith/zip/master](zip archive) 
-- Extract it into an "SurroundWith" sub-directroy in Data\Packages of your Sublime Text 2 installation
+- Extract it into an "SurroundWith" sub-directroy in Data\Packages of your Sublime Text installation
 
 
 #Basic Use

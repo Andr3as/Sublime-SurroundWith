@@ -1,6 +1,4 @@
-
-
-import sublime, sublime_plugin
+import sublime, sublime_plugin, math
 
 class SurroundWithCommand(sublime_plugin.TextCommand):
 	def run(self, edit, action):
@@ -118,10 +116,11 @@ class SurroundWithCommand(sublime_plugin.TextCommand):
 		tabSize = self.view.settings().get("tab_size")
 		rest 	= incSpace % tabSize
 		nTab	= (incSpace-rest)/tabSize
-
-		for x in xrange(0,(incTab+nTab)):
+		nTab	= math.floor(nTab);
+		
+		for x in range(0,(incTab+nTab)):
 			string += '\t'
-		for x in xrange(0,rest):
+		for x in range(0,rest):
 			string += ' '
 
 		return string
