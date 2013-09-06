@@ -5,16 +5,12 @@
 			"name": "SurroundWith",
 			"description": "A 'surround with' ability for Sublime Text like Eclipse has.",
 			"author": "Andr3as",
-			"homepage": "https://github.com/Andr3as/Sublime-SurroundWith",
 			"details": "https://github.com/Andr3as/Sublime-SurroundWith",
-			"issues": "https://github.com/Andr3as/Sublime-SurroundWith/issues",
-			"readme": "https://raw.github.com/Andr3as/Sublime-SurroundWith/master/README.md",
-			"last_modified": "2013-08-25 22:45:00",
 			"labels": ["text manipulation"],
 			"releases": [
 				{
-					"platforms": "*",
-					"details": "https://github.com/Andr3as/Sublime-SurroundWith"
+					"sublime_text": "*",
+					"details": "https://github.com/Andr3as/Sublime-SurroundWith/tree/master"
 				}
 			]
 		}
