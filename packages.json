@@ -6,6 +6,7 @@
 			"description": "A 'surround with' ability for Sublime Text like Eclipse has.",
 			"author": "Andr3as",
 			"details": "https://github.com/Andr3as/Sublime-SurroundWith",
+			"homepage": "http://andrano.de/SurroundWith/",
 			"labels": ["text manipulation"],
 			"releases": [
 				{
