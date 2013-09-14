@@ -6,7 +6,7 @@ This is a plugin for the code editor Sublime Text 2 and 3. It adds a 'surround w
 
 ## Using Package Control
 
-Install the [https://sublime.wbond.net/](wbond Package Control "https://sublime.wbond.net/")  
+Install the [wbond Package Control](https://sublime.wbond.net/ "https://sublime.wbond.net/")  
 
 - Open the console of Sublime Text
 - Run "Package Control: Install Package"
@@ -20,7 +20,7 @@ Install the [https://sublime.wbond.net/](wbond Package Control "https://sublime.
 
 ## Alternative
 
-- Download the [https://nodeload.github.com/Andr3as/Sublime-SurroundWith/zip/master](zip archive) 
+- Download the [zip archive](https://nodeload.github.com/Andr3as/Sublime-SurroundWith/zip/master) 
 - Extract it into an "SurroundWith" sub-directroy in Data\Packages of your Sublime Text installation
 
 
